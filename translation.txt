@@ -87,3 +87,20 @@ Rückgaberecht
 \
 Wir beantworten gerne Ihre Fragen! Bitte senden Sie uns eine Nachricht. Die Bearbeitungszeit beträgt maximal 24 Stunden.
 
+\\
+1. Name
+(2. privacy policy will be in seperate file)
+(3. refund policy will be in seperate file)
+4. Nehmen Sie mit uns Kontakt auf
+5. Kontakt
+6. Senden Sie uns eine Nachricht. Wir antworten Ihnen innerhalb eines Werktages.
+7. Antworten Sie hier und drücken Sie die Eingabetaste
+8. Datei auswählen (keine Datei ausgewählt)
+9. Team
+10. Vereinbaren Sie einen Termin
+11. Mit Facebook verbinden
+12. Mit LinkedIn verbinden
+13. Erfahrung
+14. Etwas ist schief gelaufen. Bitte kontaktieren Sie uns unter info@riksof.com oder sales@riksof.com. 
+Bitte entschuldigen Sie die Unannehmlichkeit.
+
