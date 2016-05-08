@@ -1,0 +1,89 @@
+Prozess
+\
+Technologie
+\
+Angebotsanfrage
+\
+Stellenangebote
+\
+Kontakt
+\
+Ein LEISTUNGSSTARKES Team, 
+das hochqualifizierte Dienste für Ihr Projekt 
+zur ENTWICKLUNG von INTERNET of Things, WEB- oder individualisierten MOBILEN Applikationen anbietet.
+\
+Wir lieben es Software zu entwickeln. 
+Das ermöglicht es uns, täglich neue und interessante Dinge zu erfahren. 
+Besonders spannend sind aber erst die wirklich herausfordernden Ideen, 
+welche nur mit Hilfe von fachlicher Kompetenz,  Ausdauer und viel harter Arbeit gelöst werden können. 
+Dabei setzten wir stets auf gegenseitiges Vertrauen und transparente Kommunikation, 
+um unseren Kunden volle Zufriedenheit gewährleisten zu können.
+\
+Ein Team aus über 25 -- beeindruckenden Menschen.
+Über 150 Projekte -- erfolgreich abgeschlossen.
+Über 50 zufriedene Kunden -- und ein etablierter Kundenkreis.
+Über 6 Jahre -- Services zur Entwicklung von IoT, mobilen & Web Applikationen.
+\
+Lean Agile Team.
+\
+Wir betreiben agile und testgetriebe Entwicklung. 
+Die Zeit für einen Zyklus beträgt zwei Wochen, so dass am Ende immer neue Funktionalitäten getestet werden können.
+\
+wöchentlich
+\
+Strategie
+\
+Bei individuellen Kundengespräche werden strategische Überlegungen zur kontinuierlichen Verbesserung diskutiert. 
+Wir sammeln Informationen zum Benutzererlebnis über verschiedene Kanäle. 
+Der Fortschritt zu den bisher gemachten Zielen wird gemessen und dementsprechend werden neue Anforderungen definiert.
+\
+Planung
+\
+Die Projektleiter und die Entwicklungsteams planen täglich die notwenigen Arbeitsschritte, um die gegeben Prioritäten einzuhalten.
+\
+täglich
+\
+Entwicklung
+\
+Regelmäßige Meetings tragen dazu bei, dass die Entwickler gegebene Fristen einhalten und ihre Arbeit mit äußerster Sorgfalt 
+und Genauigkeit erledigen. Während der Entwicklung wird ein besonderes Augenmerk auf das Schreiben von tesbarem Code gelegt. 
+Kontinuierliche Build-Integration und automatisierte Tests stellen sicher, dass Regressionen schnell erkannt und behoben werden.
+\
+Prüfung & Tests
+\
+Am Ende jedes Durchlaufs wird der Fortschritt der Ziele gemessen. 
+Die Anwendungen werden mit den Kunden im direkten Kontakt überprüft und so Mängel identifiziert und priorisiert.
+\
+Freigabe
+\
+Technologisches Know-How
+\
+Mobiltelefon
+\
+Services zur Entwicklung individualisierter mobiler Applikationen für alle gängigen mobilen Plattformen 
+inkl. Android und iOS mittels nativer SDKs und plattformübergreifender Entwicklungstools.
+\
+Internet der Dinge
+\
+Web
+\
+Services zur Entwicklung von Web-Applikationen mit Node.js, PHP, Ruby on Rails, 
+Python and Java und clientseitig mit AngularJS, Bootstrap, Backbone.js and jQuery.
+\
+Plattformen
+\
+Anhang:
+\
+"Das Team-RIKSOF setzt sich aus hochleistungsfähigen Web- und App-Entwickler zusammen. 
+Wir sind ein hochqualifiziertes, ergebnisorientiertes Dienstleistungsunternehmen zur Entwicklung mobiler 
+und webbasierter Anwendungen.
+Wir liefern Services zur Entwicklung von iOS und Android Applikationen an führende Unternehmen weltweit.
+In der Vergangenheit erfolgreich abgeschlossene Kooperationen mit unseren zufriedenen Kunden bestätigt unser Wissen 
+und unsere Fachkompetenz im Bereich der Entwicklung individualisierter mobiler Applikationen."
+\
+Datenschutzerklärung
+\
+Rückgaberecht
+\
+Wir beantworten gern Ihre Fragen! Bitte senden Sie uns eine Nachricht. Die Bearbeitungszeit beträgt maximal 24 Stunden.
+
