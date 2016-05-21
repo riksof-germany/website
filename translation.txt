@@ -9,8 +9,8 @@ Stellenangebote
 Kontakt
 \
 Ein LEISTUNGSSTARKES Team, 
-das hochqualifizierte Dienste für Ihr Projekt 
-zur ENTWICKLUNG von INTERNET of Things, WEB- oder individualisierten MOBILEN Applikationen anbietet.
+das Ihnen hochqualifizierte Dienste
+im Bereich der INTERNET of Things, WEB- oder individualisierten MOBILE App-ENTWICKLUNG anbietet.
 \
 Wir lieben es Software zu entwickeln. 
 Das ermöglicht es uns, täglich neue und interessante Dinge zu erfahren. 
@@ -33,19 +33,19 @@ wöchentlich
 \
 Strategie
 \
-Bei individuellen Kundengespräche werden strategische Überlegungen zur kontinuierlichen Verbesserung diskutiert. 
+Bei individuellen Kundengesprächen werden strategische Überlegungen zur kontinuierlichen Verbesserung diskutiert. 
 Wir sammeln Informationen zum Benutzererlebnis über verschiedene Kanäle. 
 Der Fortschritt zu den bisher gemachten Zielen wird gemessen und dementsprechend werden neue Anforderungen definiert.
 \
 Planung
 \
-Die Projektleiter und die Entwicklungsteams planen täglich die notwenigen Arbeitsschritte, um die gegeben Prioritäten einzuhalten.
+Die Projektleiter und die Entwicklungsteams planen täglich die notwendigen Arbeitsschritte, um die gegebenen Prioritäten einzuhalten.
 \
 täglich
 \
 Entwicklung
 \
-Regelmäßige Meetings tragen dazu bei, dass die Entwickler gegebene Fristen einhalten und ihre Arbeit mit äußerster Sorgfalt 
+Regelmäßige Treffen tragen dazu bei, dass die Entwickler die vorgegebenen Fristen einhalten und ihre Arbeit mit äußerster Sorgfalt 
 und Genauigkeit erledigen. Während der Entwicklung wird ein besonderes Augenmerk auf das Schreiben von tesbarem Code gelegt. 
 Kontinuierliche Build-Integration und automatisierte Tests stellen sicher, dass Regressionen schnell erkannt und behoben werden.
 \
@@ -56,18 +56,18 @@ Die Anwendungen werden mit den Kunden im direkten Kontakt überprüft und so Mä
 \
 Freigabe
 \
-Technologisches Know-How
+Technologisches Sachverständis
 \
 Mobiltelefon
 \
-Services zur Entwicklung individualisierter mobiler Applikationen für alle gängigen mobilen Plattformen 
+Services zur individualisierten mobile App-Entwicklung für alle gängigen mobilen Plattformen 
 inkl. Android und iOS mittels nativer SDKs und plattformübergreifender Entwicklungstools.
 \
 Internet der Dinge
 \
 Web
 \
-Services zur Entwicklung von Web-Applikationen mit Node.js, PHP, Ruby on Rails, 
+Services zur Web-App-Entwicklung mit Node.js, PHP, Ruby on Rails, 
 Python and Java und clientseitig mit AngularJS, Bootstrap, Backbone.js and jQuery.
 \
 Plattformen
@@ -77,9 +77,9 @@ Anhang:
 "Das Team-RIKSOF setzt sich aus hochleistungsfähigen Web- und App-Entwickler zusammen. 
 Wir sind ein hochqualifiziertes, ergebnisorientiertes Dienstleistungsunternehmen zur Entwicklung mobiler 
 und webbasierter Anwendungen.
-Wir liefern Services zur Entwicklung von iOS und Android Applikationen an führende Unternehmen weltweit.
-In der Vergangenheit erfolgreich abgeschlossene Kooperationen mit unseren zufriedenen Kunden bestätigt unser Wissen 
-und unsere Fachkompetenz im Bereich der Entwicklung individualisierter mobiler Applikationen."
+Wir liefern Services zur iOS und Android App-Entwicklung an führende Unternehmen weltweit.
+In der Vergangenheit erfolgreich abgeschlossene Kooperationen mit unseren zufriedenen Kunden bestätigen unser Wissen 
+und unsere Fachkompetenz im Bereich individualisierter mobile App-Entwicklung."
 \
 Datenschutzerklärung
 \
