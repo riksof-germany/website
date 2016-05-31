@@ -1,7 +1,6 @@
-Security and Privacy Policy Security:
 Sicherheitspolitik und Datenschutzerklärung
-We are committed to protecting your privacy and take our responsibilities regarding the security of personal information very seriously.
-Wir sind verpflichtet Ihre Privatspähre zu schützen and nehmen unsere Verantwortung im Bezug auf die Sicherheit Ihrer persönlicher Informationen sehr ernst.
+
+Wir sind verpflichtet Ihre Privatspähre zu schützen and nehmen unsere Verantwortung im Bezug auf die Sicherheit Ihrer persönlichen Informationen sehr ernst.
 2 CheckOut Dot Com (2CO), our financial transaction partners, provide our online subscription capability. When paying us a fee for our consulting services, your credit card information is sent to 2 CheckOut Dot Com via their secure server. 
 2 CheckOut Dot Com (2CO), unsers Finanztransaktionspartner stellt uns die Möglichkeit zur online  Transaktionsabwicklung zur Verfügung.
 They use the latest, most secure technology available, which encrypts all your personal and credit card details so that your credit or debit card details cannot be read as they travel over the internet.
